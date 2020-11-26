@@ -1,0 +1,15 @@
+{
+  "name": "@angelozuniga/reactcc",
+  "version": "1.0.1",
+  "description": "A script that automatically creates a functional react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Angelo Zuniga",
+  "license": "ISC",
+  "bin": {
+    "crc": "./script.js"
+  },
+  "dependencies": {}
+}
